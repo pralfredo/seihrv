@@ -97,7 +97,7 @@ SEIHRV/
 ├── Paper.pdf
 ├── Presentation.pdf
 ├── Figures/
-├── final
+├── final.pdf
 ├── Simulations/
 ├── Source_Code/
 ├── README.md
